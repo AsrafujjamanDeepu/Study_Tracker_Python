@@ -1,12 +1,12 @@
 # Study Tracker
 
-I built a Study Tracker project using Python Canvas for Stanford's Code in Place 2026 Final Project.
+The main benefit of time tracking is that it instantly kills procrastination and helps you get "in the zone" faster. This simple habit lowers your brain's resistance, builds immediate momentum, and quickly turns forced, stressful effort into deep, effortless focus.
+
+With this in mind, I've built a Study Tracker project using Python Canvas for Stanford's Code in Place 2026 Final Project.
 
 <img src="./assets/screenshots/study_tracker_poster.png" width="700" alt="Study Tracker"/>
 
 The idea is simple: students should be able to enter their own study sessions and instantly understand their progress. Since this is a project app, I made it with in-memory data while the program is running, so it focuses on the logic, interface, and user experience instead of database storage.
-
-Check it on Code in Place IDE Live :- https://codeinplace.stanford.edu/cip6/share/Vw17G8blJbx0oFzDYm4b
 
 Key features:
 - Responsive, user-friendly dashboard
@@ -30,3 +30,5 @@ This project can be best for practicing:
 - Data analysis logic
 - UI layout thinking
 - Building a project from a real student problem
+
+Check it on Code in Place IDE Live :- https://codeinplace.stanford.edu/cip6/share/Vw17G8blJbx0oFzDYm4b
