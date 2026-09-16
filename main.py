@@ -882,10 +882,7 @@ def draw_rect(canvas, x1, y1, x2, y2, color):
 
 
 def draw_text(canvas, x, y, text, size, color):
-    try:
-        canvas.create_text(x, y, text=text, font_size=size, color=color)
-    except:
-        canvas.create_text(x, y, text)
+    canvas.create_text(x, y, anchor="nw", font="Arial " + str(size), text=text, color=color)
 
 
 if __name__ == "__main__":
